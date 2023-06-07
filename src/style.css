@@ -60,13 +60,13 @@
 }
 
 html {
-  background: white;
+  background:rgb(69, 77, 86);
 }
 
 body {
   font-family: "Lato", Helvetica, Arial, sans-serif;
   font-weight: 400;
-  background: white;
+  background: rgb(69, 77, 86);
   margin: 50px 0 100px;
   letter-spacing: .3px;
   color: #39424B;
@@ -251,7 +251,7 @@ ul.two-column li {
 /* Layouts */
 .page {
   background: white;
-  width: 612px;
+  width: 750px;
   min-height: 792px;
   display: block;
   margin: 0 auto;
@@ -268,9 +268,9 @@ ul.two-column li {
 
 .left-column {
   float: left;
-  width: 160px;
+  width: 196px;
   margin-right: 20px;
-  word-wrap: break-word;
+  word-wrap: normal;
 }
 
 .right-column {
